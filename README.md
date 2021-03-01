@@ -2,4 +2,5 @@ This repository contains the code and data for the examples in "A practical tuto
 
 7 Jan 2021: An important error in Example 2 was fixed.
 
-Feb 2021: The end-user package will be available on 15 Feb 2021.
+Feb 2021: The end-user package will be available on 15 Feb 2021. 
+Please see https://vbayeslab.github.io/VBLabDocs/ for the docs and package 
